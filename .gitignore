@@ -3,3 +3,6 @@
 ################################################################################
 
 /obj/Debug/netcoreapp3.1
+/obj
+/.vs/jenkins_test/v16
+/jenkins_test.csproj.user
